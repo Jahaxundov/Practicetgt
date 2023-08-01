@@ -1,0 +1,15 @@
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\bin\Debug\net6.0\Practice01.08.23.exe
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\bin\Debug\net6.0\Practice01.08.23.deps.json
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\bin\Debug\net6.0\Practice01.08.23.runtimeconfig.json
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\bin\Debug\net6.0\Practice01.08.23.dll
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\bin\Debug\net6.0\Practice01.08.23.pdb
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\obj\Debug\net6.0\Practice01.08.23.csproj.AssemblyReference.cache
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\obj\Debug\net6.0\Practice01.08.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\obj\Debug\net6.0\Practice01.08.23.AssemblyInfoInputs.cache
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\obj\Debug\net6.0\Practice01.08.23.AssemblyInfo.cs
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\obj\Debug\net6.0\Practice01.08.23.csproj.CoreCompileInputs.cache
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\obj\Debug\net6.0\Practice01.08.23.dll
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\obj\Debug\net6.0\refint\Practice01.08.23.dll
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\obj\Debug\net6.0\Practice01.08.23.pdb
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\obj\Debug\net6.0\Practice01.08.23.genruntimeconfig.cache
+C:\Users\jahangirea\Desktop\List\Practice01.08.23\Practice01.08.23\obj\Debug\net6.0\ref\Practice01.08.23.dll
